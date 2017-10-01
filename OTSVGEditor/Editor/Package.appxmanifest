@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="64734RickManning.OpenTypeSVGFontEditor" Publisher="CN=458F894F-FD98-4842-89E5-3BB0F1FFE55B" Version="1.1.0.0" />
+  <Identity Name="64734RickManning.OpenTypeSVGFontEditor" Publisher="CN=458F894F-FD98-4842-89E5-3BB0F1FFE55B" Version="1.2.0.0" />
   <mp:PhoneIdentity PhoneProductId="a4556499-62b1-4412-84c2-0fcae544a4fe" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>OpenType SVG Font Editor</DisplayName>
